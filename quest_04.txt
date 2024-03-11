@@ -1,0 +1,6 @@
+- O primeiro passo seria ligar o primeiro interruptor e esperar um certo tempo e depois desligar.
+- O segundo passo seria ligar o segundo interruptor.
+
+Dessa forma eu iria verificar, a lampada que estiver apagada e quente corresponde ao primeiro interruptor,
+a segunda e acesa ao segundo interruptor e a apagada ao terceiro interruptor. 
+
